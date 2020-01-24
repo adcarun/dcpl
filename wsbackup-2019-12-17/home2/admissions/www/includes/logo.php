@@ -1,0 +1,1 @@
+<a href="javascript:void(0);" class="navbar-brand"><img src="img/logo.jpg" alt="logo" style="height:25px; width:80px;">&nbsp;VI Schools</a>

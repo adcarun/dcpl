@@ -1,0 +1,12 @@
+<?php
+	session_start();
+	if(!isset($_SESSION['objLogin']))
+	{
+		session_destroy();
+		header("Location:./index.php");
+	}
+	/*if($_SESSION['objLogin']->AccessLevel=="admin")
+	{
+		header("Location:./manage-rti.php");	
+	}*/
+?>
